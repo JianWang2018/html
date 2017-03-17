@@ -1,2 +1,2 @@
 # html
-repository for storing html files
+store html files
